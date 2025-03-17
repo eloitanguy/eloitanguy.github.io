@@ -95,7 +95,7 @@ nav_order: 6
   Wasserstein Losses*
   [slides](https://eloitanguy.github.io/assets/pdf/slicedloss_slides.pdf)
 
-- 28/02/2022 MAP5, Séminaire des Doctorants, 
+- 28/10/2022 MAP5, Séminaire des Doctorants, 
 
   *Generalised Wasserstein
   Barycenters and the Sliced Wasserstein Distance*
