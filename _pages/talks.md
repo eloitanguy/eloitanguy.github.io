@@ -7,12 +7,21 @@ nav: true
 nav_order: 6
 ---
 
+- 11/04/2025 MAP5, [Groupe de Travail
+  Image](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-image/)
+
+  *Introduction aux Espaces à Noyau Reproduisant*
+
 - 24/03/2025 [Séminaire de Probabilités](https://irmar.univ-rennes.fr/seminars?f%5B0%5D=seminar_type%3A238),
   [IRMAR](https://irmar.univ-rennes.fr/),
 
   *Computing Barycenters of
-  Measures for Generic Transport Costs*
-  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)
+  Measures for Generic Transport Costs
+  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)*
+
+- 14/03/2025 MAP5, Séminaire des Doctorants,
+
+  *Tutoriel de création de site personnel avec [al-folio](https://github.com/alshedivat/al-folio).*
 
 - 06/03/2025 [Applied Mathematics
   Seminar](https://cermics-lab.enpc.fr/seminaires/seminaire-du-laboratoire/),
