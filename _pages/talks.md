@@ -58,6 +58,12 @@ nav_order: 6
   for Generic Transport Costs*
   [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)
 
+- 24/09/2024 Workshop LOCA, [Centre Inria d'Université Côte
+  d'Azur](https://www.inria.fr/fr/centre-inria-universite-cote-azur),
+  
+  *Properties of Discrete Sliced Wasserstein Losses*
+  [slides](https://eloitanguy.github.io/assets/pdf/slicedloss_slides.pdf)
+
 - 17/06/2024 [GT-OT-EDP-ML](https://lucanenna.github.io/gdt/gdtot/), LMO
   
   *Properties of Discrete Sliced Wasserstein Losses*
