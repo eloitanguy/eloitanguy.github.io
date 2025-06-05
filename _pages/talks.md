@@ -7,6 +7,13 @@ nav: true
 nav_order: 6
 ---
 
+- 05/06/2025 [56e Journées de Statistique de la
+  SFdS](https://jds2025.sciencesconf.org/?lang=fr)
+
+  *Computing Barycenters of
+  Measures for Generic Transport Costs
+  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides_15min.pdf)*
+
 - 11/04/2025 MAP5, [Groupe de Travail
   Image](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-image/)
 
