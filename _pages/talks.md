@@ -7,6 +7,12 @@ nav: true
 nav_order: 6
 ---
 
+- 13/06/2025 MAP5, Session Extraordinaire du Séminaire des Doctorants: *Que font
+  les doctorants?*
+  
+  *Constrained Approximate Transport Maps*
+  [slides](https://eloitanguy.github.io/assets/pdf/constrained_maps_slides.pdf)
+
 - 05/06/2025 [56e Journées de Statistique de la
   SFdS](https://jds2025.sciencesconf.org/?lang=fr)
 
