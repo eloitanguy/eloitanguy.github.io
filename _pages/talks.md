@@ -7,6 +7,12 @@ nav: true
 nav_order: 6
 ---
 
+- 25/06/2025 LJLL, [Groupe de Travail des Thésard.es](https://www.ljll.fr/gtt/),
+
+  *Computing Barycenters of
+  Measures for Generic Transport Costs
+  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)*
+
 - 13/06/2025 MAP5, Session Extraordinaire du Séminaire des Doctorants: *Que font
   les doctorants?*
   
