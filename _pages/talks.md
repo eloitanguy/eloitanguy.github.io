@@ -7,6 +7,13 @@ nav: true
 nav_order: 6
 ---
 
+- 27/08/2025 [Colloque GRETSI 2025](https://gretsi.fr/colloque2025/)
+
+  *A Fixed-Point Algorithm for Computing Robust Barycentres of Measures*
+  [poster](https://eloitanguy.github.io/assets/pdf/ot_bar_gretsi_poster.pdf) / 
+  [communication
+  (FR)](https://eloitanguy.github.io/assets/pdf/ot_bar_gretsi_communication.pdf)
+
 - 25/06/2025 LJLL, [Groupe de Travail des Thésard.es](https://www.ljll.fr/gtt/),
 
   *Computing Barycenters of
