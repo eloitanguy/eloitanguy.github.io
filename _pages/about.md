@@ -25,11 +25,18 @@ the Sliced Wasserstein Distance and GMM-restricted OT.
 After my studies at [Ecole Polytechnique](https://www.polytechnique.edu/) (cycle
 ingénieur), I took the [Masters in Mathematics, Vision and
 Learning](https://www.master-mva.com/) ("MVA" in French), where I took [Gabriel
-Peyré](http://www.gpeyre.com/)'s "Optimal Transport" course. Enthralled, I took
-a project on [A Wasserstein distance between
+Peyré](http://www.gpeyre.com/)'s "Optimal Transport" course (an important reason
+was that I lived nearly). Enthralled, I took a project on [A Wasserstein
+distance between
 GMMs](https://hal.archives-ouvertes.fr/hal-02178204v4/document). This led me to
 an internship with Julie Delon and [Rémi
 Flamary](https://remi.flamary.com/index.fr.html) on [Generalised Wasserstein
 Barycentres](https://arxiv.org/pdf/2105.09755.pdf). This internship finished in
 September 2022, and I am now continuing this work and branching back to GMM-OT
-and Sliced Wasserstein during my PhD.
+and Sliced Wasserstein during my PhD. I am also interested in barycentres of
+measures, variants of Sliced Wasserstein, and Reproducing Kernel Hilbert Spaces.
+
+Pour ma soutenance de thèse, j'ai préparé une [introduction vulgarisée au
+Transport Optimal en
+Français](https://eloitanguy.github.io/assets/pdf/vulgarisation_ot.pdf), qui se
+veut accessible au plus grand public.
