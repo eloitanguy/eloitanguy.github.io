@@ -26,7 +26,7 @@ After my studies at [Ecole Polytechnique](https://www.polytechnique.edu/) (cycle
 ingénieur), I took the [Masters in Mathematics, Vision and
 Learning](https://www.master-mva.com/) ("MVA" in French), where I took [Gabriel
 Peyré](http://www.gpeyre.com/)'s "Optimal Transport" course (an important reason
-was that I lived nearly). Enthralled, I took a project on [A Wasserstein
+was that I lived nearby). Enthralled, I took a project on [A Wasserstein
 distance between
 GMMs](https://hal.archives-ouvertes.fr/hal-02178204v4/document). This led me to
 an internship with Julie Delon and [Rémi
