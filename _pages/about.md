@@ -34,7 +34,12 @@ Flamary](https://remi.flamary.com/index.fr.html) on [Generalised Wasserstein
 Barycentres](https://arxiv.org/pdf/2105.09755.pdf). This internship finished in
 September 2022, and I am now continuing this work and branching back to GMM-OT
 and Sliced Wasserstein during my PhD. I am also interested in barycentres of
-measures, variants of Sliced Wasserstein, and Reproducing Kernel Hilbert Spaces.
+measures, variants of Sliced Wasserstein, Reproducing Kernel Hilbert Spaces,
+Generative Modelling and Sketching.
+
+In February 2025, I will begin a post-doc in the [INRIA OCKHAM
+team](https://www.inria.fr/fr/ockham) under the supervision of [Rémi
+Gribonval](https://perso.ens-lyon.fr/remi.gribonval/).
 
 Pour ma soutenance de thèse, j'ai préparé une [introduction vulgarisée au
 Transport Optimal en
