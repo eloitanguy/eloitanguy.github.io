@@ -45,7 +45,7 @@ nav_order: 6
   Measures for Generic Transport Costs
   [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)*
 
-- 14/03/2025 MAP5, Séminaire des Doctorants,
+- 14/03/2025 MAP5, [Séminaire des Doctorants](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-des-ephemeres/),
 
   *Tutoriel de création de site personnel avec [al-folio](https://github.com/alshedivat/al-folio).*
 
@@ -78,7 +78,7 @@ nav_order: 6
   Measures for Generic Transport Costs*
   [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)
 
-- 20/01/2025 MAP5, Séminaire des Doctorants, 
+- 20/01/2025 MAP5, [Séminaire des Doctorants](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-des-ephemeres/), 
 
   *Computing Barycenters of Measures
   for Generic Transport Costs*
@@ -114,7 +114,7 @@ nav_order: 6
   Sliced Wasserstein Losses*
   [slides](https://eloitanguy.github.io/assets/pdf/slicedloss_slides.pdf)
 
-- 26/01/2024 MAP5, Séminaire des Doctorants, 
+- 26/01/2024 MAP5, [Séminaire des Doctorants](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-des-ephemeres/), 
 
   *An Introduction to Reproducing
   Kernel Hilbert Spaces and Kernel Interpolation*
@@ -137,13 +137,13 @@ nav_order: 6
   *Properties of Discrete Sliced Wasserstein Losses*
   [slides](https://eloitanguy.github.io/assets/pdf/slicedloss_slides.pdf)
 
-- 30/06/2023 MAP5, Séminaire des Doctorants, 
+- 30/06/2023 MAP5, [Séminaire des Doctorants](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-des-ephemeres/), 
 
   *Properties of Discrete Sliced
   Wasserstein Losses*
   [slides](https://eloitanguy.github.io/assets/pdf/slicedloss_slides.pdf)
 
-- 28/10/2022 MAP5, Séminaire des Doctorants, 
+- 28/10/2022 MAP5, [Séminaire des Doctorants](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-des-ephemeres/), 
 
   *Generalised Wasserstein
   Barycenters and the Sliced Wasserstein Distance*

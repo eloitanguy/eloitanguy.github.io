@@ -9,7 +9,10 @@ nav_order: 5
 
 ### Master MVA
 
-Project supervisor for the [Imaging](https://perso.telecom-paristech.fr/gousseau/MVA/) and [Generative Modelling](https://generativemodelingmva.github.io/) courses.
+2023-2024 Project supervisor for the
+[Imaging](https://perso.telecom-paristech.fr/gousseau/MVA/) course.
+
+2023-2025 Project supervisor for the [Generative Modelling](https://generativemodelingmva.github.io/) course.
 
 ### Université Paris-Cité
 
