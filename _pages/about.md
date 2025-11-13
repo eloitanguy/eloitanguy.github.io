@@ -45,4 +45,5 @@ Je soutiendrai ma thèse le 25 Novembre 2025 à 13h30! Voici un [lien vers le
 manuscrit](https://eloitanguy.github.io/assets/pdf/manuscript_eloi.pdf). J'ai
 préparé une [introduction vulgarisée au Transport Optimal en
 Français](https://eloitanguy.github.io/assets/pdf/vulgarisation_ot.pdf), qui se
-veut accessible au plus grand public.
+veut accessible au plus grand public. [Plan d'accès à la
+salle](https://eloitanguy.github.io/assets/pdf/plan_acces_soutenance.pdf).
