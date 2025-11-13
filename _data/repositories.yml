@@ -4,6 +4,7 @@ github_users:
 github_repos:
   - PythonOT/POT
   - eloitanguy/ot_bar
+  - eloitanguy/manuscript_template
   - eloitanguy/maths
   - eloitanguy/iptools 
   - eloitanguy/tarotbot
