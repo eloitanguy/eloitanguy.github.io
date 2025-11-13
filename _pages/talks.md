@@ -36,7 +36,7 @@ nav_order: 6
 - 11/04/2025 MAP5, [Groupe de Travail
   Image](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-image/)
 
-  *Introduction aux Espaces à Noyau Reproduisant*
+  *Introduction aux Espaces à Noyau Reproduisant* [notes](https://eloitanguy.github.io/assets/pdf/kernel_intro.pdf)
 
 - 24/03/2025 [Séminaire de Probabilités](https://irmar.univ-rennes.fr/seminars?f%5B0%5D=seminar_type%3A238),
   [IRMAR](https://irmar.univ-rennes.fr/),
