@@ -16,8 +16,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-PhD student under the supervision of [Julie Delon](https://judelo.github.io/)
-and [Agnès Desolneux](https://desolneux.perso.math.cnrs.fr/).
+I defended my PhD entitled *Theory and Computation of Optimal Transport
+Variants* and supervised by [Julie Delon](https://judelo.github.io/) and [Agnès
+Desolneux](https://desolneux.perso.math.cnrs.fr/) on the 25th of November 2025.
+[Link to the
+manuscript](https://eloitanguy.github.io/assets/pdf/manuscript_eloi.pdf). [Link
+to the slides](https://eloitanguy.github.io/assets/pdf/phd_pres.pdf) (read with
+[pdfpc](https://pdfpc.github.io/) to see the animations). [Introduction
+vulgarisée au Transport Optimal en
+Français](https://eloitanguy.github.io/assets/pdf/vulgarisation_ot.pdf), qui se
+veut accessible au plus grand public.
 
 I study Optimal Transport, in particular Generalised Wasserstein Barycentres,
 the Sliced Wasserstein Distance and GMM-restricted OT. 
@@ -32,18 +40,11 @@ GMMs](https://hal.archives-ouvertes.fr/hal-02178204v4/document). This led me to
 an internship with Julie Delon and [Rémi
 Flamary](https://remi.flamary.com/index.fr.html) on [Generalised Wasserstein
 Barycentres](https://arxiv.org/pdf/2105.09755.pdf). This internship finished in
-September 2022, and I am now continuing this work and branching back to GMM-OT
-and Sliced Wasserstein during my PhD. I am also interested in barycentres of
+September 2022, and continued this work and and branched back to GMM-OT and
+Sliced Wasserstein during my PhD. I am also interested in barycentres of
 measures, variants of Sliced Wasserstein, Reproducing Kernel Hilbert Spaces,
 Generative Modelling and Sketching.
 
 In February 2025, I will begin a post-doc in the [INRIA OCKHAM
 team](https://www.inria.fr/fr/ockham) under the supervision of [Rémi
 Gribonval](https://perso.ens-lyon.fr/remi.gribonval/).
-
-Je soutiendrai ma thèse le 25 Novembre 2025 à 13h30! Voici un [lien vers le
-manuscrit](https://eloitanguy.github.io/assets/pdf/manuscript_eloi.pdf). J'ai
-préparé une [introduction vulgarisée au Transport Optimal en
-Français](https://eloitanguy.github.io/assets/pdf/vulgarisation_ot.pdf), qui se
-veut accessible au plus grand public. [Plan d'accès à la
-salle](https://eloitanguy.github.io/assets/pdf/plan_acces_soutenance.pdf).
