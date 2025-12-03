@@ -7,6 +7,12 @@ nav: true
 nav_order: 6
 ---
 
+- 21/11/2025 [NEWOT Workshop](https://project.inria.fr/newot/)
+
+  *Computing Barycenters of
+  Measures for Generic Transport Costs
+  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)*
+
 - 27/08/2025 [Colloque GRETSI 2025](https://gretsi.fr/colloque2025/)
 
   *A Fixed-Point Algorithm for Computing Robust Barycentres of Measures*
