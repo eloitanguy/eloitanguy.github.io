@@ -7,6 +7,12 @@ nav: true
 nav_order: 6
 ---
 
+- 21/11/2025 LMO, [GT des doctorants ANH et ANEDP](https://www.imo.universite-paris-saclay.fr/fr/events/7785)
+
+  *Computing Barycenters of
+  Measures for Generic Transport Costs
+  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)*
+
 - 21/11/2025 [NEWOT Workshop](https://project.inria.fr/newot/)
 
   *Computing Barycenters of
