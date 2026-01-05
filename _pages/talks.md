@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-- 21/11/2025 LMO, [GT des doctorants ANH et ANEDP](https://www.imo.universite-paris-saclay.fr/fr/events/7785)
+- 09/12/2025 LMO, [GT des doctorants ANH et ANEDP](https://www.imo.universite-paris-saclay.fr/fr/events/7785)
 
   *Computing Barycenters of
   Measures for Generic Transport Costs
