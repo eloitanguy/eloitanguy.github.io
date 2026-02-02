@@ -7,14 +7,16 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>725C1, MAP5, Université Paris-Cité</p>
-    <p>45, rue des Saints Pères, 75270 Paris Cedex 06, FRANCE</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+Since February 2025, I am a post-doc in the [INRIA OCKHAM
+team](https://www.inria.fr/fr/ockham) under the supervision of [Rémi
+Gribonval](https://perso.ens-lyon.fr/remi.gribonval/), working on Flow Matching
+and Sketching.
 
 I defended my PhD entitled *Theory and Computation of Optimal Transport
 Variants* and supervised by [Julie Delon](https://judelo.github.io/) and [Agnès
@@ -40,11 +42,7 @@ GMMs](https://hal.archives-ouvertes.fr/hal-02178204v4/document). This led me to
 an internship with Julie Delon and [Rémi
 Flamary](https://remi.flamary.com/index.fr.html) on [Generalised Wasserstein
 Barycentres](https://arxiv.org/pdf/2105.09755.pdf). This internship finished in
-September 2022, and continued this work and and branched back to GMM-OT and
+September 2022, and continued this work and branched back to GMM-OT and
 Sliced Wasserstein during my PhD. I am also interested in barycentres of
 measures, variants of Sliced Wasserstein, Reproducing Kernel Hilbert Spaces,
 Generative Modelling and Sketching.
-
-In February 2025, I will begin a post-doc in the [INRIA OCKHAM
-team](https://www.inria.fr/fr/ockham) under the supervision of [Rémi
-Gribonval](https://perso.ens-lyon.fr/remi.gribonval/).
