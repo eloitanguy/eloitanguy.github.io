@@ -15,8 +15,8 @@ social: true  # includes social icons at the bottom of the page
 
 Since February 2025, I am a post-doc in the [INRIA OCKHAM
 team](https://www.inria.fr/fr/ockham) under the supervision of [Rémi
-Gribonval](https://perso.ens-lyon.fr/remi.gribonval/), working on Flow Matching
-and Sketching.
+Gribonval](https://perso.ens-lyon.fr/remi.gribonval/), working on Path Lifting,
+Flow Matching and Sketching.
 
 I defended my PhD entitled *Theory and Computation of Optimal Transport
 Variants* and supervised by [Julie Delon](https://judelo.github.io/) and [Agnès
