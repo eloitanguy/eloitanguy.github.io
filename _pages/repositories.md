@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: Summary of my open-source contributions at [https://github.com/eloitanguy](https://github.com/eloitanguy)
-nav: false
+nav: true
 nav_order: 3
 ---
 
