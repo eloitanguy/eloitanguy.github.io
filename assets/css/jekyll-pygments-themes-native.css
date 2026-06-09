@@ -49,7 +49,11 @@
 } /* Generic.Inserted */
 .highlight .go {
   color: #cccccc;
-} /* Generic.Output */ /* Generic.Prompt */ /* Generic.Strong */ /* Generic.Subheading */
+} /* Generic.Output */ /* Generic.Prompt */ /* Generic.Strong */
+.highlight .gu {
+  color: #ffffff;
+  text-decoration: underline;
+} /* Generic.Subheading */
 .highlight .gt {
   color: #d22323;
 } /* Generic.Traceback */ /* Keyword.Constant */ /* Keyword.Declaration */ /* Keyword.Namespace */ /* Keyword.Pseudo */ /* Keyword.Reserved */ /* Keyword.Type */ /* Literal.Date */
