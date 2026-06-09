@@ -1,5 +1,5 @@
 ---
-layout: distill
+layout: extra
 title: guandan
 description: Rules of Guandan
 year: 2022
