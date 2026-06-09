@@ -2,6 +2,7 @@
 layout: distill
 title: guandan
 description: Rules of Guandan
+year: 2022
 ---
 
 The sections with ⭐ are required to play, the others are optional if one of the players already knows the rules.
