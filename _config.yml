@@ -171,9 +171,16 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  extra:
+  books:
     output: true
-    permalink: /extra/:path/
+  news:
+    defaults:
+      layout: post
+    output: true
+  projects:
+    output: true
+  teachings:
+    output: true
 
 
 # -----------------------------------------------------------------------------
