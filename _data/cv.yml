@@ -1,120 +1,121 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Eloi Tanguy
-    - name: Date of Birth
-      value: 15th August 1999
-    - name: Languages
-      value: "English, French, Spanish, <small> Mandarin Chinese </small>"
-    - name: Contact
-      value: "eloi [dot] tanguy [at] math [dot] cnrs [dot] fr"
+cv:
+  name: Eloi Tanguy
+  email: tanguy.eloi@gmail.com
 
-- title: Academic Career
-  type: time_table
-  contents:
-    - title: post-doc
-      year: 2026
-      description:
-        - Path lifting
-        - title: Under the supervision of
-          contents:
-            - Rémi Gribonval
-    - title: PhD
-      institution: "Université Paris-Cité, laboratoire MAP5"
-      year: "2022 - 2025"
-      description:
-        - Generalised Wasserstein Barycentres
-        - Sliced Wasserstein Distance
-        - Optimal Transport Maps
-        - Optimal Transport between Gaussian Mixture Models
-        - title: Under the supervision of
-          contents:
-            - Julie Delon (Professeure des Universités, MAP5, Université Paris Cité)
-            - Agnès Desolneux (Directrice de Recherche CNRS, Centre Borelli; Professeure, ENS Paris-Saclay)
-    
-    - title: Masters Degree
-      institution: "Mathematics, Vision and Learning (Master MVA), ENS Paris-Saclay"
-      year: "2021"
-      description:
-        - Deep Learning (Vision, NLP, Graphs)
-        - Optimal Transport
-        - Optimisation
-        - Statistics
-    
-    - title: Ecole d'Ingénieur
-      institution: "Ecole Polytechnique"
-      year: "2018 - 2021"
-      description:
-        - Specialisation in Pure and Applied Mathematics.
+  sections:
+    Education:
+      - institution: Inria
+        area: Path Lifting
+        studyType: Postdoctoral Research
+        start_date: 2026
+        highlights:
+          - Under the supervision of Rémi Gribonval.
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: "<a href=\"https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/\">Member of the Board of the Young Statisticians Group of the French Statistical Society</a>"
-      year: "2023 - now"
-      description:
-        - Organising research events
-        - Webmaster
-    - title: Co-organiser of the PhD Student Seminar at MAP5
-      year: 2023 - 2024
-    - title: Research Internship
-      institution: MAP5, Université Paris-Cité
-      year: 2022
-      description:
-        - Generalised Wasserstein Barycentres and the Sliced Wasserstein Distance.
-        - title: Under the supervision of
-          contents:
-            - Julie Delon (Professeure des Universités, MAP5, Université Paris Cité)
-            - Rémi Flamary (Tenure Professor, CMAP, Ecole Polytechnique)
-    
-    - title: Research Internship
-      institution: DIG-INFRES, Télécom Paris
-      year: 2021
-      description:
-        - Extracting structured information from raw Wikipedia text using Deep Learning.
-        - title: Under the supervision of
-          contents:
-            - Tiphaine Viard (Associate Professor, DIG, Télécom Paris)
-            - Thomas Bonald (Tenure Professor, DIG, Télécom Paris)
+      - institution: Université Paris-Cité, laboratoire MAP5
+        area: Generalised Wasserstein Barycentres and Optimal Transport
+        studyType: PhD
+        start_date: 2022
+        end_date: 2025
+        highlights:
+          - Sliced Wasserstein Distance.
+          - Optimal Transport Maps.
+          - Optimal Transport between Gaussian Mixture Models.
+          - Under the supervision of Julie Delon and Agnès Desolneux.
 
-    - title: Company Internship
-      institution: Stereolabs
-      year: 2020
-      description:
-        - Human pose estimation with CNNs.
+      - institution: ENS Paris-Saclay
+        area: Mathematics, Vision and Learning (Master MVA)
+        studyType: Masters Degree
+        start_date: 2021
+        end_date: 2021
+        highlights:
+          - Deep Learning (Vision, NLP, Graphs).
+          - Optimal Transport.
+          - Optimisation.
+          - Statistics.
 
-    - title: Teaching Assistant
-      institution: Université de Technologie du Cambodge
-      year: 2018
-      description:
-        - Teaching full-time gifted undergraduate students as preparation for the Ecole Polytechnique entry exams.
+      - institution: Ecole Polytechnique
+        area: Pure and Applied Mathematics
+        studyType: Engineering Degree
+        start_date: 2018
+        end_date: 2021
+        highlights:
+          - Specialisation in Pure and Applied Mathematics.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/PythonOT">POT</a>
-      year: "2022-now"
-      description:
-        - Contributing to the Python Optimal Transport Library.
+    Experience:
+      - company: French Statistical Society (SFdS)
+        position: Board Member, Young Statisticians Group
+        start_date: 2023
+        highlights:
+          - Organising research events.
+          - Webmaster.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Optimal Transport
-      items: 
-        - (Generalised) Wasserstein Barycentres
-        - The Sliced Wasserstein Distance
-        - Gaussian Mixture Model Optimal Transport
-    - title: Generative Modelling
-    - title: "Theory of Deep Learning: path lifting"
-    - title: Reproducing kernel Hilbert spaces and sketching
+      - company: MAP5 PhD Student Seminar
+        position: Co-organiser
+        start_date: 2023
+        end_date: 2024
 
-- title: Other Interests
-  type: list
-  contents:
-    - Mandarin Chinese
-    - Music (flute, saxophone)
-    - (Horrendous) chess
-    - Blender modelling and animation
-    - Tennis
+      - company: MAP5, Université Paris-Cité
+        position: Research Intern
+        start_date: 2022
+        end_date: 2022
+        highlights:
+          - Generalised Wasserstein Barycentres and the Sliced Wasserstein Distance.
+          - Under the supervision of Julie Delon and Rémi Flamary.
+
+      - company: DIG-INFRES, Télécom Paris
+        position: Research Intern
+        start_date: 2021
+        end_date: 2021
+        highlights:
+          - Extracting structured information from raw Wikipedia text using deep learning.
+          - Under the supervision of Tiphaine Viard and Thomas Bonald.
+
+      - company: Stereolabs
+        position: Intern
+        start_date: 2020
+        end_date: 2020
+        highlights:
+          - Human pose estimation with CNNs.
+
+      - company: Université de Technologie du Cambodge
+        position: Teaching Assistant
+        start_date: 2018
+        end_date: 2018
+        highlights:
+          - Taught full-time gifted undergraduate students preparing for Ecole Polytechnique entry exams.
+
+    Projects:
+      - name: Python Optimal Transport (POT)
+        summary: Contributing to the Python Optimal Transport library.
+        start_date: 2022
+
+    Languages:
+      - name: French
+        summary: Native speaker
+
+      - name: English
+        summary: Fluent
+
+      - name: Spanish
+        summary: Professional working proficiency
+
+      - name: Mandarin Chinese
+        summary: Intermediate
+
+    Interests:
+      - name: Optimal Transport
+        keywords: Generalised Wasserstein Barycentres, Sliced Wasserstein Distance, Gaussian Mixture Model Optimal Transport
+
+      - name: Generative Modelling
+
+      - name: Theory of Deep Learning
+        keywords: Path lifting
+
+      - name: Reproducing Kernel Hilbert Spaces and Sketching
+
+      - name: Music
+        keywords: Flute, Saxophone
+
+      - name: Blender Modelling and Animation
+
+      - name: Tennis
