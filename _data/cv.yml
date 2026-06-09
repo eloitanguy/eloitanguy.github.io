@@ -1,86 +1,59 @@
 cv:
-  name: Eloi Tanguy
-  email: tanguy.eloi@gmail.com
+  name: Eloi TANGUY
+  affiliation: OCKHAM, INRIA, ENS de Lyon
 
   sections:
-    Education:
-      - institution: Inria
+    Academic Career:
+      - location: INRIA, ENS de Lyon
         area: Path Lifting
         studyType: Postdoctoral Research
         start_date: 2026
-        highlights:
-          - Under the supervision of Rémi Gribonval.
+        end_date: 2026
+        summary: Under the supervision of Rémi Gribonval.
 
-      - institution: Université Paris-Cité, laboratoire MAP5
-        area: Generalised Wasserstein Barycentres and Optimal Transport
+      - location: MAP5, Université Paris-Cité
+        area: Theory and Computation of Optimal Transport Variants
         studyType: PhD
         start_date: 2022
         end_date: 2025
-        highlights:
-          - Sliced Wasserstein Distance.
-          - Optimal Transport Maps.
-          - Optimal Transport between Gaussian Mixture Models.
-          - Under the supervision of Julie Delon and Agnès Desolneux.
+        summary: Under the supervision of Julie Delon and Agnès Desolneux. [link to manuscript](https://eloitanguy.github.io/assets/pdf/manuscript_eloi.pdf)
+      
+      - location: MAP5, Université Paris-Cité
+        area: Generalised Wasserstein Barycentres and the Sliced Wasserstein Distance
+        studyType: Master Thesis
+        start_date: 2022
+        end_date: 2022
+        summary: Under the supervision of Julie Delon and Rémi Flamary. [link to manuscript](https://eloitanguy.github.io/assets/pdf/GWB_report.pdf)
 
-      - institution: ENS Paris-Saclay
+      - location: ENS Paris-Saclay
         area: Mathematics, Vision and Learning (Master MVA)
         studyType: Masters Degree
         start_date: 2021
         end_date: 2021
-        highlights:
-          - Deep Learning (Vision, NLP, Graphs).
-          - Optimal Transport.
-          - Optimisation.
-          - Statistics.
 
-      - institution: Ecole Polytechnique
+      - location: Ecole Polytechnique
         area: Pure and Applied Mathematics
         studyType: Engineering Degree
         start_date: 2018
         end_date: 2021
-        highlights:
-          - Specialisation in Pure and Applied Mathematics.
 
     Experience:
-      - company: French Statistical Society (SFdS)
+      - location: French Statistical Society (SFdS)
         position: Board Member, Young Statisticians Group
         start_date: 2023
         highlights:
           - Organising research events.
           - Webmaster.
 
-      - company: MAP5 PhD Student Seminar
-        position: Co-organiser
+      - location: MAP5 
+        position: PhD Student Seminar co-organiser
         start_date: 2023
         end_date: 2024
 
-      - company: MAP5, Université Paris-Cité
-        position: Research Intern
-        start_date: 2022
-        end_date: 2022
-        highlights:
-          - Generalised Wasserstein Barycentres and the Sliced Wasserstein Distance.
-          - Under the supervision of Julie Delon and Rémi Flamary.
-
-      - company: DIG-INFRES, Télécom Paris
-        position: Research Intern
-        start_date: 2021
-        end_date: 2021
-        highlights:
-          - Extracting structured information from raw Wikipedia text using deep learning.
-          - Under the supervision of Tiphaine Viard and Thomas Bonald.
-
-      - company: Stereolabs
-        position: Intern
-        start_date: 2020
-        end_date: 2020
-        highlights:
-          - Human pose estimation with CNNs.
-
-      - company: Université de Technologie du Cambodge
+      - location: Université de Technologie du Cambodge
         position: Teaching Assistant
         start_date: 2018
-        end_date: 2018
+        end_date: 2019
         highlights:
           - Taught full-time gifted undergraduate students preparing for Ecole Polytechnique entry exams.
 
@@ -94,7 +67,7 @@ cv:
         summary: Native speaker
 
       - name: English
-        summary: Fluent
+        summary: Native speaker
 
       - name: Spanish
         summary: Professional working proficiency
@@ -102,7 +75,7 @@ cv:
       - name: Mandarin Chinese
         summary: Intermediate
 
-    Interests:
+    Research Interests:
       - name: Optimal Transport
         keywords: Generalised Wasserstein Barycentres, Sliced Wasserstein Distance, Gaussian Mixture Model Optimal Transport
 
@@ -113,9 +86,9 @@ cv:
 
       - name: Reproducing Kernel Hilbert Spaces and Sketching
 
-      - name: Music
-        keywords: Flute, Saxophone
+    Other Interests:
+      - name: Flute, Saxophone
 
       - name: Blender Modelling and Animation
 
-      - name: Tennis
+      - name: Tennis, Badminton, Table Tennis
