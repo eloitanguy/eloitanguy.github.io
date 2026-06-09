@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: Summary of my open-source contributions at [https://github.com/eloitanguy](https://github.com/eloitanguy)
 nav: false
-nav_order: 4
+nav_order: 3
 ---
 
 - [PythonOT](https://github.com/PythonOT/POT): Python Optimal Transport library

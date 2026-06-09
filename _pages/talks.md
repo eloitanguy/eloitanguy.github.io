@@ -4,7 +4,7 @@ permalink: /talks/
 title: talks
 description: #Materials for courses you taught. Replace this text with your description.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 - 09/12/2025 LMO, [GT des doctorants ANH et ANEDP](https://www.imo.universite-paris-saclay.fr/fr/events/7785)
