@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-<div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
+<div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 10px;" markdown=1>
 
 Eloi TANGUY, post-doctoral fellow
 
@@ -19,7 +19,7 @@ Eloi TANGUY, post-doctoral fellow
 - *Reproducing Kernel Hilbert Spaces and Sketching*
 </div>
 
-<div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 20px;">
+<div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 20px;" markdown=1>
 
 ## Academic Career
 
@@ -42,7 +42,7 @@ Supervision: Julie Delon and Rémi Flamary
 
 </div>
 
-<div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 20px;">
+<div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 20px;" markdown=1>
 
 ## Experience
 
