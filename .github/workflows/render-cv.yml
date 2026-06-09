@@ -42,8 +42,30 @@ jobs:
             echo "Missing RenderCV config file!"
             exit 1
           fi
+          set +e
+          python - "$cv_file" <<'PY'
+          import pathlib
+          import sys
+          import yaml
+
+          cv_path = pathlib.Path(sys.argv[1])
+          cv_data = yaml.safe_load(cv_path.read_text(encoding="utf-8"))
+
+          if not isinstance(cv_data, dict):
+              print(f"Skipping RenderCV: {cv_path} is not in RenderCV YAML format.")
+              raise SystemExit(2)
+          PY
+          cv_format_status=$?
+          set -e
+          if [ "$cv_format_status" -eq 2 ]; then
+            exit 0
+          fi
+          if [ "$cv_format_status" -ne 0 ]; then
+            echo "Failed to validate $cv_file as YAML input for RenderCV."
+            exit "$cv_format_status"
+          fi
           rendercv render $cv_file --settings $settings
-          rm assets/rendercv/rendercv_output/*.typ
+          rm -f assets/rendercv/rendercv_output/*.typ
       - name: Upload rendercv_output as an artifact
         uses: actions/upload-artifact@v4
         with:
@@ -54,5 +76,9 @@ jobs:
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git add -A
+          if git diff --cached --quiet; then
+            echo "No CV rendering changes to commit."
+            exit 0
+          fi
           git commit -m "chore: render the latest CV"
           git push
