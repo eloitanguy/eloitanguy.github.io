@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /repositories/
-title: repositories
+permalink: /code/
+title: code
 description: Summary of my open-source contributions at [https://github.com/eloitanguy](https://github.com/eloitanguy)
 nav: true
 nav_order: 3

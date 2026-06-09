@@ -8,9 +8,9 @@ nav_order: 4
 
 <div style="border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin-bottom: 10px;" markdown=1>
 
-Eloi TANGUY, post-doctoral fellow
+## Eloi TANGUY
 
-**Affiliation:** OCKHAM, INRIA, ENS de Lyon
+**Affiliation:** post-doctoral fellow at OCKHAM, INRIA, ENS de Lyon
 
 **Research Interests**:
 - *Optimal Transport:* Generalised Wasserstein Barycentres, Sliced Wasserstein Distance, Gaussian Mixture Model Optimal Transport
