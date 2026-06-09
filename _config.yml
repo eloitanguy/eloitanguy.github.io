@@ -179,7 +179,7 @@ collections:
     output: true
   projects:
     output: true
-  teachings:
+  extra:
     output: true
 
 
