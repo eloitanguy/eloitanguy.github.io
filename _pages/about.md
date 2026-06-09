@@ -30,8 +30,8 @@ team](https://www.inria.fr/fr/ockham) under the supervision of [Rémi
 Gribonval](https://perso.ens-lyon.fr/remi.gribonval/), working on Path Lifting,
 Flow Matching and Sketching.
 
-I defended my PhD entitled *Theory and Computation of Optimal Transport
-Variants* and supervised by [Julie Delon](https://judelo.github.io/) and [Agnès
+I defended my PhD entitled _Theory and Computation of Optimal Transport
+Variants_ and supervised by [Julie Delon](https://judelo.github.io/) and [Agnès
 Desolneux](https://desolneux.perso.math.cnrs.fr/) on the 25th of November 2025.
 [Link to the
 manuscript](https://eloitanguy.github.io/assets/pdf/manuscript_eloi.pdf). [Link
@@ -42,7 +42,7 @@ Français](https://eloitanguy.github.io/assets/pdf/vulgarisation_ot.pdf), qui se
 veut accessible au plus grand public.
 
 I study Optimal Transport, in particular Generalised Wasserstein Barycentres,
-the Sliced Wasserstein Distance and GMM-restricted OT. 
+the Sliced Wasserstein Distance and GMM-restricted OT.
 
 After my studies at [Ecole Polytechnique](https://www.polytechnique.edu/) (cycle
 ingénieur), I took the [Masters in Mathematics, Vision and
