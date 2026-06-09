@@ -1,10 +1,6 @@
 cv:
   name: Eloi Tanguy
-  label: Postdoctoral Researcher
-  email: eloi [dot] tanguy [at] math [dot] cnrs [dot] fr
-  summary: >-
-    Researcher in optimal transport, generative modelling, and theoretical deep
-    learning.
+  email: tanguy.eloi@gmail.com
 
   sections:
     Education:
