@@ -7,6 +7,16 @@ nav: true
 nav_order: 4
 ---
 
+- 19/06/2026 MAP5, [Séminaire des
+  Doctorants](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-des-ephemeres/)
+
+  _Session pratique: créer son site avec al-folio_ [blog post](https://eloitanguy.github.io/blog/2026/al-folio/)
+
+- 01/06/2026 [57e Journées de Statistique de la
+  SFdS](https://jds2026.sciencesconf.org/?lang=fr)
+  _Differentiable EM and applications with GMMOT_
+  [slides](https://eloitanguy.github.io/assets/pdf/diffEMpres.pdf)
+
 - 09/12/2025 LMO, [GT des doctorants ANH et ANEDP](https://www.imo.universite-paris-saclay.fr/fr/events/7785)
 
   _Computing Barycenters of
