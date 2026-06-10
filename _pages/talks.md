@@ -14,6 +14,7 @@ nav_order: 4
 
 - 01/06/2026 [57e Journées de Statistique de la
   SFdS](https://jds2026.sciencesconf.org/?lang=fr)
+  
   _Differentiable EM and applications with GMMOT_
   [slides](https://eloitanguy.github.io/assets/pdf/diffEMpres.pdf)
 
