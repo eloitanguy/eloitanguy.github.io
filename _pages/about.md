@@ -25,6 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+
+Starting October 2026, I will be a CNRS researcher (chargé de recherches CNRS
+section 1) at [CMAP](https://cmap.ip-paris.fr/), [Ecole
+Polytechnique](https://www.polytechnique.edu/). This is a full-time and tenured
+research position in Mathematics.
+
 Since February 2025, I am a post-doc in the [INRIA OCKHAM
 team](https://www.inria.fr/fr/ockham) under the supervision of [Rémi
 Gribonval](https://perso.ens-lyon.fr/remi.gribonval/), working on Path Lifting,
