@@ -7,6 +7,13 @@ nav: true
 nav_order: 4
 ---
 
+- 31/06/2026 [Learning and Optimization in
+  Luminy](https://conferences.cirm-math.fr/3630.html)
+
+  _Computing Barycenters of
+  Measures for Generic Transport Costs_
+  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)
+
 - 19/06/2026 MAP5, [Séminaire des
   Doctorants](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-des-ephemeres/)
 
@@ -27,8 +34,8 @@ nav_order: 4
 - 21/11/2025 [NEWOT Workshop](https://project.inria.fr/newot/)
 
   _Computing Barycenters of
-  Measures for Generic Transport Costs
-  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)_
+  Measures for Generic Transport Costs_
+  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)
 
 - 27/08/2025 [Colloque GRETSI 2025](https://gretsi.fr/colloque2025/)
 
@@ -40,8 +47,8 @@ nav_order: 4
 - 25/06/2025 LJLL, [Groupe de Travail des Thésard.es](https://www.ljll.fr/gtt/),
 
   _Computing Barycenters of
-  Measures for Generic Transport Costs
-  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)_
+  Measures for Generic Transport Costs_
+  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)
 
 - 13/06/2025 MAP5, Session Extraordinaire du Séminaire des Doctorants: _Que font
   les doctorants?_
@@ -53,8 +60,8 @@ nav_order: 4
   SFdS](https://jds2025.sciencesconf.org/?lang=fr)
 
   _Computing Barycenters of
-  Measures for Generic Transport Costs
-  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides_15min.pdf)_
+  Measures for Generic Transport Costs_
+  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides_15min.pdf)
 
 - 11/04/2025 MAP5, [Groupe de Travail
   Image](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-image/)
@@ -65,8 +72,8 @@ nav_order: 4
   [IRMAR](https://irmar.univ-rennes.fr/),
 
   _Computing Barycenters of
-  Measures for Generic Transport Costs
-  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)_
+  Measures for Generic Transport Costs_
+  [slides](https://eloitanguy.github.io/assets/pdf/ot_bar_slides.pdf)
 
 - 14/03/2025 MAP5, [Séminaire des Doctorants](https://map5.mi.parisdescartes.fr/evenements/groupe-de-travail-des-ephemeres/),
 
