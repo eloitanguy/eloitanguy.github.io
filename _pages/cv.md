@@ -10,7 +10,7 @@ nav_order: 4
 
 ## Eloi TANGUY
 
-**Affiliation:** post-doctoral fellow at OCKHAM, INRIA, ENS de Lyon
+**Affiliation:** CNRS researcher at [CMAP](https://cmap.ip-paris.fr/), Ecole Polytechnique
 
 **Research Interests**:
 - *Optimal Transport:* Generalised Wasserstein Barycentres, Sliced Wasserstein Distance, Gaussian Mixture Model Optimal Transport

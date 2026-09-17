@@ -31,7 +31,7 @@ section 1) at [CMAP](https://cmap.ip-paris.fr/), [Ecole
 Polytechnique](https://www.polytechnique.edu/). This is a full-time and tenured
 research position in Mathematics.
 
-Since February 2025, I am a post-doc in the [INRIA OCKHAM
+From February 2026 to June 2026, I was a post-doc in the [INRIA OCKHAM
 team](https://www.inria.fr/fr/ockham) under the supervision of [Rémi
 Gribonval](https://perso.ens-lyon.fr/remi.gribonval/), working on Path Lifting,
 Flow Matching and Sketching.
