@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: al-folio
-description: "Advice for applying to the CNRS" 
+title: Advice for applying to the CNRS
+description:  
 date: 2026-10-01
 tags:
 thumbnail: assets/posts/LOGO_CNRS_BLEU.png
